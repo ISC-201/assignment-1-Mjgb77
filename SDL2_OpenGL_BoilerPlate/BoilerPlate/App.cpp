@@ -126,7 +126,7 @@ namespace Engine
 
 	void App::Render()
 	{
-		ColorSetter::setBackground(Color::Navy);
+		ColorSetter::setBackground(ColorSetter::Navy);
 
 		glBegin(GL_LINE_LOOP);
 		glVertex2f(50.0, 50.0);

@@ -9,6 +9,7 @@
 
 // 
 #include "App.hpp"
+#include "MathUtilities.h"
 
 const int WIDTH = 1136;
 const int HEIGHT = 640;
